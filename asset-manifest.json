@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/propsReact/static/js/main.f3eb931e.js",
+    "static/media/profile.jpeg": "/propsReact/static/media/profile.14731eb3b4a0cdeb8a0b.jpeg",
+    "index.html": "/propsReact/index.html",
+    "main.f3eb931e.js.map": "/propsReact/static/js/main.f3eb931e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f3eb931e.js"
+  ]
+}
